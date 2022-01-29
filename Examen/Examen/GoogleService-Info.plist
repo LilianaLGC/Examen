@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>76119760836-2ockr65an9uid7j4sga5ahr5ga8o801r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.76119760836-2ockr65an9uid7j4sga5ahr5ga8o801r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAPXeHcjapPusOon11g4t-mp-vzfKjh5Vw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>76119760836</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Lili.com.mx.Examen</string>
+	<key>PROJECT_ID</key>
+	<string>fir-178d5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-178d5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:76119760836:ios:2ca15f91a5a66996034e91</string>
+</dict>
+</plist>
